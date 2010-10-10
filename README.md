@@ -41,8 +41,9 @@ Goals:
 
 Application Stack:
 ------------------
-  * Google App Engine Python
-  * Google webapp Framework
+  * Google App Engine Java
+  * JRuby 
+  * Sinatra Framework
   * Blueprint CSS Framework
 
 
